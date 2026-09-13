@@ -1,8 +1,5 @@
 Khatm Quran
 
-<p align="center">
-  <img src="app/src/main/ic_launcher-playstore.png" alt="آیکن برنامه ختم قرآن" width="120" />
-</p>
 
 <h3 align="center">یک همراه ساده و فارسی برای برنامه‌ریزی و پیگیری ختم قرآن</h3>
 
