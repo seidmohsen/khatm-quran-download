@@ -49,7 +49,7 @@ Khatm Quran
 | صفحه اصلی و حزب امروز | ختم‌های من |
 |:---:|:---:|
 | ![صفحه حزب امروز](docs/screenshots/hizb.jpg) | ![ختم‌های من](docs/screenshots/khatm.jpg) |
-
-| تنظیمات | درباره برنامه |
+  
+| فرآن | ویجت |
 |:---:|:---:|
 | ![قرآن](docs\screenshots\quran.jpg) | ![ویجت](docs/screenshots/widget.jpg) |
