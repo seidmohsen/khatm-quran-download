@@ -48,7 +48,7 @@ Khatm Quran
 
 | صفحه اصلی و حزب امروز | ختم‌های من |
 |:---:|:---:|
-| ![صفحه حزب امروز](docs/scrennshots/hizb.jpg) | ![ختم‌های من](app/src/main/res/drawable/mykhatm.png) |
+| ![صفحه حزب امروز](docs/screenshots/hizb.jpg) | ![ختم‌های من](app/src/main/res/drawable/mykhatm.png) |
 
 | تنظیمات | درباره برنامه |
 |:---:|:---:|
