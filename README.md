@@ -52,4 +52,4 @@ Khatm Quran
   
 | فرآن | ویجت |
 |:---:|:---:|
-| ![قرآن](docs\screenshots\quran.jpg) | ![ویجت](docs/screenshots/widget.jpg) |
+| ![قرآن](docs/screenshots/quran.jpg) | ![ویجت](docs/screenshots/widget.jpg) |
