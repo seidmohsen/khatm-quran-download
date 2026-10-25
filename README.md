@@ -76,18 +76,33 @@
 
 ## 📱 نگاهی سریع به محیط برنامه
 
+
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/screenshots/01-today-hizb.jpeg" alt="صفحه حزب امروز" width="220" /><br/><sub><b>حزب امروز</b><br/>متن تلاوت همان روز همراه با نام سوره</sub></td>
-    <td align="center"><img src="docs/screenshots/08-quran-with-translation.jpeg" alt="متن و ترجمه" width="220" /><br/><sub><b>ترجمه روان</b><br/>امکان مشاهده ترجمه فارسی زیر هر آیه</sub></td>
-    <td align="center"><img src="docs/screenshots/03-audio-playing-ayah.jpeg" alt="پخش آیه" width="220" /><br/><sub><b>ترتیل آیه‌به‌آیه</b><br/>هایلایت سبز آیه در حال پخش</sub></td>
+    <td align="center"><img src="docs/screenshots/01-today-hizb.jpeg" alt="صفحه حزب امروز" width="220" /><br/><sub><b>حزب امروز</b><br/>کارت حزب روز، نام سوره و شماره آیات</sub></td>
+    <td align="center"><img src="docs/screenshots/07-hizb-day-card.jpeg" alt="حزب خوانده‌شده" width="220" /><br/><sub><b>پیگیری روزانه</b><br/>علامت‌زدن حزب به‌عنوان خوانده‌شده</sub></td>
+    <td align="center"><img src="docs/screenshots/03-audio-playing-ayah.jpeg" alt="پخش آیه" width="220" /><br/><sub><b>ترتیل آیه‌به‌آیه</b><br/>هایلایت آیه در حال پخش</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/11-my-khatms.jpeg" alt="ختم‌های من" width="220" /><br/><sub><b>ختم‌های من</b><br/>مدیریت چند برنامه ختم و درصد پیشرفت</sub></td>
-    <td align="center"><img src="docs/screenshots/06-unread-hizbs-sheet.jpeg" alt="حزب‌های خوانده‌نشده" width="220" /><br/><sub><b>حزب‌های جامانده</b><br/>مشاهده و علامت‌گذاری حزب‌های گذشته</sub></td>
-    <td align="center"><img src="docs/screenshots/04-playback-settings-dialog.jpeg" alt="تنظیمات پخش" width="220" /><br/><sub><b>تنظیمات ترتیل</b><br/>تنظیم سرعت، تکرار آیه و دانلود آفلاین</sub></td>
+    <td align="center"><img src="docs/screenshots/08-quran-with-translation.jpeg" alt="متن و ترجمه" width="220" /><br/><sub><b>متن و ترجمه</b><br/>اعراب کامل و ترجمه فارسی</sub></td>
+    <td align="center"><img src="docs/screenshots/02-ayah-audio-player.jpeg" alt="پخش‌کننده صوت" width="220" /><br/><sub><b>پخش‌کننده صوت</b><br/>پخش حزب و نمایش آیه جاری</sub></td>
+    <td align="center"><img src="docs/screenshots/04-playback-settings-dialog.jpeg" alt="تنظیمات پخش" width="220" /><br/><sub><b>تنظیمات پخش</b><br/>سرعت پخش، تکرار و دانلود</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/05-all-hizbs-sheet.jpeg" alt="فهرست حزب‌ها" width="220" /><br/><sub><b>فهرست ۱۲۰ حزب</b><br/>جست‌وجو و وضعیت هر حزب</sub></td>
+    <td align="center"><img src="docs/screenshots/06-unread-hizbs-sheet.jpeg" alt="حزب‌های خوانده‌نشده" width="220" /><br/><sub><b>حزب‌های عقب‌افتاده</b><br/>علامت‌گذاری گروهی و پرش به آیه</sub></td>
+    <td align="center"><img src="docs/screenshots/09-settings-text.jpeg" alt="تنظیمات متن" width="220" /><br/><sub><b>تنظیمات متن</b><br/>فونت قرآنی، اندازه و اعراب ساده</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/10-settings-reminder-audio.jpeg" alt="تنظیمات برنامه" width="220" /><br/><sub><b>یادآور و صدا</b><br/>یادآور روزانه و مدیریت حافظه</sub></td>
+    <td align="center"><img src="docs/screenshots/11-my-khatms.jpeg" alt="ختم‌های من" width="220" /><br/><sub><b>ختم‌های من</b><br/>چند ختم هم‌زمان و درصد پیشرفت</sub></td>
+    <td align="center"><img src="docs/screenshots/13-add-khatm-dialog.jpeg" alt="ثبت ختم جدید" width="220" /><br/><sub><b>ثبت ختم جدید</b><br/>تاریخ شروع شمسی و حزب آغازین</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="docs/screenshots/12-about.jpeg" alt="درباره ما" width="220" /><br/><sub><b>درباره ما</b><br/>تیم توسعه، بازخورد و نسخه برنامه</sub></td>
   </tr>
 </table>
+
 
 ---
 
