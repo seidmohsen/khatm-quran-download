@@ -1,28 +1,32 @@
 <p align="center">
-  <img src="docs/screenshots/01-today-hizb.jpeg" alt="نشان برنامه ختم قرآن" width="110" style="border-radius: 20%;" />
+  <img src="app/src/main/res/drawable/logo.png" alt="نشان برنامه ختم قرآن" width="128" />
 </p>
 
-<h1 align="center">ختم قرآن — همراه روزانه‌ی تلاوت کلام‌الله</h1>
+<h1 align="center">ختم قرآن — Khatm Quran</h1>
 
 <p align="center">
-  <strong>برنامه‌ریزی، تلاوت منظم و پیگیری لحظه‌ای ختم قرآن کریم</strong><br/>
-  یک حزب در هر روز؛ همراه با متن، ترجمه فارسی روان، ترتیل آیه‌به‌آیه و یادآور هوشمند
+  <strong>همراه روزانه‌ی شما برای برنامه‌ریزی، تلاوت و پیگیری ختم قرآن کریم</strong><br/>
+  یک حزب در هر روز؛ از ثبت ختم و یادآوری تا تلاوت صوتی و مطالعه‌ی متن با ترجمه
 </p>
 
 <p align="center">
   <a href="https://github.com/seidmohsen/khatm-quran-download/releases/latest">
-    <img src="https://img.shields.io/badge/دانلود-مستقیم_APK_v1.2.2-2E7D6B?style=for-the-badge&logo=android&logoColor=white" alt="دانلود آخرین نسخه" />
+    <img src="https://img.shields.io/badge/Download-APK%20v1.2.2-2E7D6B?style=for-the-badge&logo=android&logoColor=white" alt="Download latest APK" />
   </a>
   <a href="https://cafebazaar.ir/app/ir.seyedi.khatmquran">
-    <img src="https://img.shields.io/badge/کافه_بازار-نصب_و_بروزرسانی-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="کافه بازار" />
+    <img src="https://img.shields.io/badge/Cafe%20Bazaar-Install-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Cafe Bazaar" />
+  </a>
+  <a href="quran-documentation/README.md">
+    <img src="https://img.shields.io/badge/Docs-Technical%20Reference-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Technical documentation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/اندروید-۷.۰_به_بالا-3DDC84?style=flat-square&logo=android&logoColor=white" alt="پشتیبانی اندروید" />
-  <img src="https://img.shields.io/badge/هزینه-کاملاً_رایگان-blue?style=flat-square" alt="رایگان" />
-  <img src="https://img.shields.io/badge/تبلیغات-کاملاً_بدون_تبلیغ-success?style=flat-square" alt="بدون تبلیغ" />
-  <img src="https://img.shields.io/badge/حریم_خصوصی-بدون_جمع‌آوری_داده-orange?style=flat-square" alt="امنیت داده" />
+  <img src="https://img.shields.io/badge/Platform-Android%207.0%2B-3DDC84?logo=android&logoColor=white" alt="Android 7.0+" />
+  <img src="https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin 2.2.10" />
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose%20%2B%20Material%203-4285F4?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Media-Media3%201.8-FF6F00" alt="Media3" />
+  <img src="https://img.shields.io/github/v/release/seidmohsen/khatm-quran-download?label=Latest%20APK&color=success" alt="Latest release" />
 </p>
 
 ---
