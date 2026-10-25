@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/drawable/logo.png" alt="نشان برنامه ختم قرآن" width="128" />
+  <img src="docs/screenshots/logo.png" alt="نشان برنامه ختم قرآن" width="128" />
 </p>
 
 <h1 align="center">ختم قرآن — Khatm Quran</h1>
